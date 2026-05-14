@@ -1,7 +1,7 @@
 <?php
 
 namespace Controller;
-use Model\Post;
+use Model\Subscriber;
 use Src\View;
 
 class Site
